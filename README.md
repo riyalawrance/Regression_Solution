@@ -55,6 +55,6 @@ print("Coefficients:", coefficients)
 
 ## Files
 
-- `polynomial_regression.py` - Main code
+- `Solution.ipynb` - Main code
 - `Data.csv` - Dataset
 - `README.md` - This file
