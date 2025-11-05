@@ -1,4 +1,4 @@
-# Regression_solution
+# Solution for Regression models using matrix multiplication
 
 Solving of polynomial regression using the normal equation α = (X^T X)^(-1) X^T Y
 
